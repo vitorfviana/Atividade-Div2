@@ -1,0 +1,18 @@
+html, body{
+    margin: 0;
+}
+
+.div1 {
+    background-color: red;
+    height: 50px;
+    width: 50px;
+    border: solid 2px green;
+    padding: 100px;
+}
+
+.div2 {
+    background-color: black;
+    height: 50vh;
+    width: 50%;
+    border: 10px dashed red;
+}
